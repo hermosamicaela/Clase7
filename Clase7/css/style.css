@@ -1,0 +1,36 @@
+header {
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    background-color: #c4c4c4;
+    font-family: 'Times New Roman';
+    color: #005677;
+    text-align: center;
+    letter-spacing: 0.3em;
+}
+h3{
+    background-color: #c4c4c4;
+    color: #005677;
+    font-family:'Times New Roman';
+    letter-spacing: 0.3em;
+    font-style: normal;
+    text-align: center;
+    width: 70%;
+    
+}
+span{
+    font-weight: bold;
+}
+#datos{
+    font-style: italic;
+}
+
+footer{
+    background-color: #005677;
+    font-family: 'Times New Roman';
+    text-align: center;
+    color: white;
+}
